@@ -3,7 +3,7 @@
 - 🎓 M.S. Industrial-Organizational Psychology Student
 - 📍 Goal: Drive positive organizational change that improves the work life of employees
 - 💡 Interests: Organizational research, **data storytelling**, employee experience, technology
-- 📚 Currently Learning: Logistic regression, moderation analysis, mediation analysis, structural equation modeling, survey design
+- 📚 Currently Learning: Logistic regression, structural equation modeling, survey design, item response theory
 ## My Projects
 - 🔄 [Which Employees Are Leaving?](https://github.com/Kathleen-D/Which-Employees-Are-Leaving) - Completed
 - 🔥 [Are Employees At Risk Of Burnout?](https://github.com/Kathleen-D/Are-Employees-At-Risk-Of-Burnout) - In Progress
